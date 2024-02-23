@@ -13,7 +13,7 @@ class Circumference extends ConsoleProgram {
     double dblCircumference;
 
     // Input
-    dblRadius = readDouble("What is the radius of your circle? ");
+    dblRadius = readDouble("Enter a radius: ");
 
     // Calculations
     dblCircumference = 2 * Math.PI * dblRadius;

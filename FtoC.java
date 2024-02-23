@@ -13,7 +13,7 @@ class FtoC extends ConsoleProgram {
     double dblCelsius;
 
     // input
-    dblFahrenheit = readDouble("Enter a temperature in fahrenheit: ");
+    dblFahrenheit = readDouble("Enter a temperature in degrees fahrenheit: ");
 
     // calculations
     dblCelsius = ((dblFahrenheit - 32) * (5.0 / 9.045

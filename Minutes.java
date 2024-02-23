@@ -18,7 +18,7 @@ class Minutes extends ConsoleProgram {
     int intRemainingMins;
 
     // Assignments
-    intMins = readInt("Enter an amount of minutes: ");
+    intMins = readInt("What is the total number of minutes: ");
 
     // Calculations
     intDays = (intMins/60)/24;

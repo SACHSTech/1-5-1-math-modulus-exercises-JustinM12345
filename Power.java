@@ -18,8 +18,8 @@ class Power extends ConsoleProgram {
     double dblResult;
 
     // Assigning
-    dblBase = readDouble("What is the Base: ");
-    dblExponent = readDouble("What is the Exponent: ");
+    dblBase = readDouble("Enter the Base: ");
+    dblExponent = readDouble("Enter the Exponent: ");
 
     // Calculations 
     dblResult = Math.pow(dblBase,dblExponent);

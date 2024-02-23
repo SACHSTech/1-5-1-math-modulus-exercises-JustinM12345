@@ -13,7 +13,7 @@ class Km_to_Miles extends ConsoleProgram {
     double dblDistaneceM;
 
     // Assigning
-    dblDistaneceKm = readDouble("How many KM: ");
+    dblDistaneceKm = readDouble("Enter a distance in Km: ");
 
     // Calculations
     dblDistaneceM = dblDistaneceKm *  0.621371;

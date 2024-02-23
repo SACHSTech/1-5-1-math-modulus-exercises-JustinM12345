@@ -19,7 +19,7 @@ class AreaSin extends ConsoleProgram {
     // Asigning 
     dblSideA = readDouble("What is side A: ");
     dblSideB = readDouble("What is side B: ");
-    dblAngleC = readDouble("What is Angle in degrees C: ");
+    dblAngleC = readDouble("What is the angle in degrees for C: ");
 
     // Calculations
     dblArea = (dblSideA *  dblSideB * Math.sin(Math.toRadians(dblAngleC)))/2;

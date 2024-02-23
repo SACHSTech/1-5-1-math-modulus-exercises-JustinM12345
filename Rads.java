@@ -21,7 +21,7 @@ class Rads extends ConsoleProgram {
     dblRadians = Math.toRadians(dblDegrees);
 
     // Outputs
-    System.out.println("Radians: "+dblRadians);
+    System.out.println("The value in radians is "+dblRadians);
 
   }
 }
