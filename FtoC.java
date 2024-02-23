@@ -20,6 +20,6 @@ class FtoC extends ConsoleProgram {
     ));
 
     // output
-    System.out.println("The temperature in celsius is: " + dblCelsius);
+    System.out.println("The temperature in degrees celsius is: " + dblCelsius);
   }
 }
