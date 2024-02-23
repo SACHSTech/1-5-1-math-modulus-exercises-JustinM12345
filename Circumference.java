@@ -3,7 +3,7 @@ class Circumference extends ConsoleProgram {
   /**
   * Description
   * Computes the circumference of a circle given a radius from user entry.
-  * @author: Justin M
+  * @author: Justin Mui
   */
   
   public void run() {

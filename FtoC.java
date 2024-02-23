@@ -3,7 +3,7 @@ class FtoC extends ConsoleProgram {
   /**
   * Description
   * Enter a degree measure in Fahrenheit, and that prints the result in celsius degree measure
-  * @author: Justin M 
+  * @author: Justin Mui 
   */
   
   public void run() {

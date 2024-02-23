@@ -5,7 +5,7 @@ class Minutes extends ConsoleProgram {
   * @author:
   * User enters an amount of minutes
   * Program turns that into hours, days, and minutes
-  * @author: Justin M
+  * @author: Justin Mui
   */
 
   public void run() {

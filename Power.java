@@ -6,7 +6,7 @@ class Power extends ConsoleProgram {
   * One is the base 
   * Other is exponent
   * does the calculations
-  * @author: Justin M
+  * @author: Justin Mui
   */
 
   public void run() {

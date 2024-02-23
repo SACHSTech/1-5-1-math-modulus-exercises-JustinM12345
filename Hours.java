@@ -3,7 +3,7 @@ class Hours extends ConsoleProgram {
   /**
   * Description
   * Lets you enter a number of hours, and that converts it to days and hours. For example, 111 hours = 4 days and 15 hours
-  * @author: Justin M
+  * @author: Justin Mui
   */
   
   public void run() {

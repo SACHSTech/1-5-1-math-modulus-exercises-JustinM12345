@@ -3,7 +3,7 @@ class AreaSin extends ConsoleProgram {
   /**
   * Description
   * calculate the area of a triangle, given two sides and the contained angle
-  * @author: Justin M
+  * @author: Justin Mui
   */
   
   public void run() {

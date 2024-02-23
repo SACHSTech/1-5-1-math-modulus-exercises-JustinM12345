@@ -3,7 +3,7 @@ class Km_to_Miles extends ConsoleProgram {
   /**
   * User inputs how many Km need to convert to Miles
   * That number is converted to miles.
-  * @author: Justin M
+  * @author: Justin Mui
   */
 
   public void run() {

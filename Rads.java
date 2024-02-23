@@ -4,7 +4,7 @@ class Rads extends ConsoleProgram {
   * Description
   * @author:
   * Converts Degrees to radians
-  * @author: J. Menezes
+  * @author: Justin Mui
   */
 
   public void run() {
@@ -15,7 +15,7 @@ class Rads extends ConsoleProgram {
     double dblRadians;
 
     // Assigning Variables
-    dblDegrees = readDouble("Enter Degrees: ");
+    dblDegrees = readDouble("Enter a value for degrees: ");
 
     // Calculations
     dblRadians = Math.toRadians(dblDegrees);

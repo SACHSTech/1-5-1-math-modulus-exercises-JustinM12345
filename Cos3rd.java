@@ -3,7 +3,7 @@ class Cos3rd extends ConsoleProgram {
   /**
   * Description
   * Lets you enter two sides of a triangle and the contained angle, and that will use the cosine law to calculate the third side
-  * @author: Justin M 
+  * @author: Justin Mui
   */
   
   public void run() {
